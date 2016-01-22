@@ -1,0 +1,25 @@
+{
+  "name": "why-upgrade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node --debug index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisronline/why-upgrade.git"
+  },
+  "author": "Chris Roberson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisronline/why-upgrade/issues"
+  },
+  "homepage": "https://github.com/chrisronline/why-upgrade#readme",
+  "dependencies": {
+    "bluebird": "^3.1.1",
+    "github": "^0.2.4",
+    "semver": "^5.1.0",
+    "shelljs": "^0.5.3"
+  }
+}
