@@ -13,5 +13,3 @@ async function run() {
 }
 
 run()
-  // .then((msg) => console.log(msg))
-  // .catch((e) => console.warn(e))
